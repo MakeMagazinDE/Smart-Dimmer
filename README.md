@@ -4,4 +4,4 @@ Maker Media GmbH
 
 ***
 
-# Smart-Dimmer
+# Smarter Dimmer
