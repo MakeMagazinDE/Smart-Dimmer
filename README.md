@@ -5,3 +5,5 @@ Maker Media GmbH
 ***
 
 # Smarter Dimmer
+
+mit ESP8266 (ESP-12)
