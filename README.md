@@ -6,7 +6,9 @@ Maker Media GmbH
 
 # Smarter Dimmer
 
-mit ESP8266 (ESP-12)
+###mit ESP8266 (ESP-12)
+
+![Picture](https://github.com/MakeMagazinDE/Smart-Dimmer/blob/master/iot_dimmer_v02.jpg)
 
 Bitte beachten Sie das gegenüber der im Heft abgedruckten Version leicht geänderte Schaltbild/Layout. Hinzugekommen sind R10 und R11, die für einen sicheren Start der Schaltung bei nicht angeschlossener Last sorgen.
 
