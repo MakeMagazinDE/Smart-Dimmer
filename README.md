@@ -17,7 +17,7 @@ D1..D3  S1J Diode 600V/1A
 GL1 Gleichrichter 2A/400V
 Q1  IRF740
 ZD1 Zener 10V/400mW SMD MELF
-
+ 
 Widerstände
 R1  VDR 360V
 R2, R8  4k7 SMD 0805
