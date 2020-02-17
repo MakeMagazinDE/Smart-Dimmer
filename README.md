@@ -6,7 +6,7 @@ Maker Media GmbH
 
 # Smarter Dimmer
 
-### mit ESP8266 (ESP-12), Make 1/2020
+### mit ESP8266 (ESP-12), Make 1/2020 S. 56
 
 ![Picture](https://github.com/MakeMagazinDE/Smart-Dimmer/blob/master/iot_dimmer_v02.jpg)
 
