@@ -23,7 +23,7 @@ Gerber-Files zur Platinenfertigung; Abmessungen der Platine 71 x 71 mm, 2-lagig 
 	ZD1 Zener 10V/400mW SMD MELF (Reichelt SMD ZF 10)
  
 	Widerstände
-	R1  VDR 360V
+	R1  VDR 275VAC, 360VDC, RM 7,5
 	R2, R8  4k7 SMD 0805
 	R3, R4, R6, R9  10k SMD 0805
 	R10, R11 100k SMD 1206
