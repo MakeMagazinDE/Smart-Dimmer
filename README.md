@@ -6,13 +6,15 @@ Maker Media GmbH
 
 # Smarter Dimmer
 
-###mit ESP8266 (ESP-12)
+### mit ESP8266 (ESP-12), Make 1/2020
 
 ![Picture](https://github.com/MakeMagazinDE/Smart-Dimmer/blob/master/iot_dimmer_v02.jpg)
 
 Bitte beachten Sie das gegenüber der im Heft abgedruckten Version leicht geänderte Schaltbild/Layout. Hinzugekommen sind R10 und R11, die für einen sicheren Start der Schaltung bei nicht angeschlossener Last sorgen.
 
 Gerber-Files zur Platinenfertigung; Abmessungen der Platine 71 x 71 mm, 2-lagig 1,55mm FR4, Lötstopplack oben und unten, Bestückungsdruck beidseitig. Eine Leerplatine wird auch im Heise-Shop verfügbar sein.
+
+Weitere Informationen zu ESP-Modulen und derern Programmierung finden Sie hier: http://stefanfrings.de/esp8266/
 
 ### Stückliste
 
