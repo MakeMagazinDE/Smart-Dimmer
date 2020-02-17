@@ -10,13 +10,15 @@ Maker Media GmbH
 
 ![Picture](https://github.com/MakeMagazinDE/Smart-Dimmer/blob/master/iot_dimmer_v02.jpg)
 
+Gerber-Files zur Platinenfertigung; Abmessungen der Platine 71 x 71 mm, 2-lagig 1,55mm FR4, Lötstopplack oben und unten, Bestückungsdruck beidseitig. Eine Leerplatine wird auch im Heise-Shop verfügbar sein.
+
+**Weitere Hinweise**
+
 Bitte beachten Sie das gegenüber der im Heft abgedruckten Version leicht geänderte Schaltbild/Layout. Hinzugekommen sind R10 und R11, die für einen sicheren Start der Schaltung bei nicht angeschlossener Last sorgen.
 
 Die Ringkerndrossel L1 wird mit doppelseitigem Schaumstoff-Klebeband auf TR1 befestigt. Zum Anschluss an die Platine können einige Wingungen abgewickelt werden, so dass längere Drahtenden (mit Isolierschlauch schützen) entstehen.
 
-Für Q1 ist ein kleiner Kühlkörper erforderlich, der leicht aus einem Reststück Aluminium-Winkelprofil angefertigt werden kann.
-
-Gerber-Files zur Platinenfertigung; Abmessungen der Platine 71 x 71 mm, 2-lagig 1,55mm FR4, Lötstopplack oben und unten, Bestückungsdruck beidseitig. Eine Leerplatine wird auch im Heise-Shop verfügbar sein.
+Für Q1 ist ein kleiner Kühlkörper erforderlich, der leicht aus einem Reststück Aluminium-Winkelprofil angefertigt werden kann. **Beachten Sie, dass der Kühlkörper Netzspannung führt!**
 
 Weitere Informationen zu ESP-Modulen und deren Programmierung finden Sie hier: http://stefanfrings.de/esp8266/
 
