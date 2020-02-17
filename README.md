@@ -10,7 +10,7 @@ Maker Media GmbH
 
 ![Picture](https://github.com/MakeMagazinDE/Smart-Dimmer/blob/master/iot_dimmer_v02.jpg)
 
-Gerber-Files zur Platinenfertigung; Abmessungen der Platine 71 x 71 mm, 2-lagig 1,55mm FR4, Lötstopplack oben und unten, Bestückungsdruck beidseitig. Eine Leerplatine wird auch im Heise-Shop verfügbar sein.
+Gerber-Files zur Platinenfertigung; Abmessungen der Platine 71 x 71 mm, 2-lagig 1,55mm FR4, Lötstopplack und Bestückungsdruck beidseitig. Eine Leerplatine wird auch im Heise-Shop verfügbar sein.
 
 **Weitere Hinweise**
 
