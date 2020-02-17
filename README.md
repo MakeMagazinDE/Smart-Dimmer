@@ -18,7 +18,7 @@ Für Q1 ist ein kleiner Kühlkörper erforderlich, der leicht aus einem Reststü
 
 Gerber-Files zur Platinenfertigung; Abmessungen der Platine 71 x 71 mm, 2-lagig 1,55mm FR4, Lötstopplack oben und unten, Bestückungsdruck beidseitig. Eine Leerplatine wird auch im Heise-Shop verfügbar sein.
 
-Weitere Informationen zu ESP-Modulen und derern Programmierung finden Sie hier: http://stefanfrings.de/esp8266/
+Weitere Informationen zu ESP-Modulen und deren Programmierung finden Sie hier: http://stefanfrings.de/esp8266/
 
 ### Stückliste
 
