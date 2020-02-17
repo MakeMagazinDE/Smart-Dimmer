@@ -8,10 +8,12 @@ Maker Media GmbH
 
 mit ESP8266 (ESP-12)
 
+Gerber-Files zur Platinenfertigung; Abmessungen der Platine 71 x 71 mm, 2-lagig 1,55mm FR4, Lötstopplack oben und unten, Bestückungsdruck beidseitig.
+
 ### Stückliste
 
-Halbleiter
-U1, U2  PC817 Optokoppler, DIL
+	Halbleiter
+	U1, U2  PC817 Optokoppler, DIL
 U3  ESP-12E oder F
 D1..D3  S1J Diode 600V/1A
 GL1 Gleichrichter 2A/400V
