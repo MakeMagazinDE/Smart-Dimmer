@@ -10,15 +10,15 @@ mit ESP8266 (ESP-12)
 
 ### Stückliste
 
-  Halbleiter
-  U1, U2  PC817 Optokoppler, DIL
-  U3  ESP-12E oder F
-  D1..D3  S1J Diode 600V/1A
-  GL1 Gleichrichter 2A/400V
-  Q1  IRF740
-  ZD1 Zener 10V/400mW SMD MELF
+ Halbleiter
+ U1, U2  PC817 Optokoppler, DIL
+ U3  ESP-12E oder F
+ D1..D3  S1J Diode 600V/1A
+ GL1 Gleichrichter 2A/400V
+ Q1  IRF740
+ ZD1 Zener 10V/400mW SMD MELF
 
-  WIderstände
+ Widerstände
   R1  VDR 360V
   R2, R8  4k7 SMD 0805
   R3, R4, R6, R9  10k SMD 0805
